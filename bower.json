@@ -1,0 +1,27 @@
+{
+    "name": "tile-storage",
+    "homepage": "http://blackhawkwebcomponents.github.io/tile-storage",
+    "description": "",
+    "main": "tile-storage.html",
+    "authors": [
+        "Rob Beers"
+    ],
+    "license": "Apache2",
+    "version": "0.0.1",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests",
+        "../"
+    ],
+    "keywords": [
+        "web-component",
+        "web-components",
+        "polymer"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#master"
+    }
+}
