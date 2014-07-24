@@ -1,0 +1,7 @@
+{
+  "name": "tile-storage#gh-pages",
+  "private": true,
+  "dependencies": {
+    "tile-storage": "BlackhawkWebComponents/tile-storage#master"
+  }
+}
